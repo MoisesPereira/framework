@@ -6,7 +6,7 @@ from typing import List, Set, Dict, Tuple, Optional
 from ...db.dbConnect import conexao
 #from ..mapper.TipoAmbiente import TipoAmbiente
 from ..mapper.Projeto import CadastraProjeto as mapperProjeto
-from ..mapper.Projeto import TipoAmbiente as ambiente
+#from ..mapper.Projeto import TipoAmbiente as ambiente
 
 
 Session = conexao()

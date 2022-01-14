@@ -32,17 +32,17 @@ class Main:
 #print(Main.listaProjetos())
 
 obj = {
-    "nome_projeto": "Projeto Foreign Key - 33", 
-    "descricao_projeto": "Descricao do Projeto - 33", 
-    "funcional_inclusao": "000000333", 
+    "nome_projeto": "6666 Projeto Foreign Key - 666", 
+    "descricao_projeto": "666 Descricao do Projeto - 666", 
+    "funcional_inclusao": "6666666", 
     "data_inclusao": '2022-01-15 00:56:51', 
-    "funcional_manutencao": "000000333", 
+    "funcional_manutencao": "666666666", 
     "data_inclusao_manutencao": '2022-01-15 00:56:51 ', 
     "situacao_registro": 1, 
-    "diretorio_projeto": "/repo-2", 
+    "diretorio_projeto": "/repo-44", 
     "grupo_acesso": "2", 
     "tipo_ambiente": 2, 
-    "usuario_execucao": "executaHQL-33"
+    "usuario_execucao": "666666-executaHQL-666"
     }
 
 

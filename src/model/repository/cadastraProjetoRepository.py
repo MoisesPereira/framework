@@ -9,7 +9,6 @@ from ..mapper.Projeto import CadastraProjeto as mapperProjeto
 class CadastraProjeto:
 
 
-
     def __init__(self, projeto: Dict) -> None:
         Session = conexao()
         self.session = Session()
