@@ -1,7 +1,7 @@
 # Modulo com as Regras de Negocio
 
 from typing import List, Set, Dict, Tuple, Optional
-from ..repository.listaProjetoRepository import getProjetos, getProjetosByUser, getProjetosById
+from ..model.repository.listaProjetoRepository import getProjetos, getProjetosByUser, getProjetosById
 
 
 def getProjetosService() -> List[List[dict]]:
